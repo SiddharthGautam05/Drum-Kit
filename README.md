@@ -1,1 +1,1 @@
-#An instrument kit.
+A small kit of instruments
